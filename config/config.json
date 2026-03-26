@@ -4,7 +4,7 @@
     "subject_keyword": "Itinerary",
     "sort_by": "ReceivedTime",
     "sort_descending": true,
-    "password": "sam123"
+    "password": "sam1234"
   },
   "output": {
     "filename": "hotels_output.json",
