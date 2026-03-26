@@ -3,7 +3,8 @@
     "folder": "Inbox",
     "subject_keyword": "Itinerary",
     "sort_by": "ReceivedTime",
-    "sort_descending": true
+    "sort_descending": true,
+    "password": "sam123"
   },
   "output": {
     "filename": "hotels_output.json",
