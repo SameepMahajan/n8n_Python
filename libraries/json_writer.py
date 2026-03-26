@@ -16,7 +16,6 @@ def build_record(metadata: dict, hotels: list[dict]) -> dict:
         "hotels": hotels,
     }
 
-//save bookings to json
 def save_to_json(records: list[dict], output_dir: str, filename: str,
                  indent: int = 2, encoding: str = "utf-8") -> str:
     """
