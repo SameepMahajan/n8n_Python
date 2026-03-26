@@ -34,7 +34,7 @@ def html_to_lines(html: str) -> list[str]:
     """
     soup = BeautifulSoup(html, "lxml")
     full_text = soup.get_text(separator="\n")
-    full_tex = full_text.replace("\xa0", " ")  # non-breaking space fix
+    full_text = full_text.replace("\xa0", " ")  # non-breaking space fix
     return [line.strip() for line in full_text.splitlines() if line.strip()]
 
 
