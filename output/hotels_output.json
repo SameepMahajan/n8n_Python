@@ -1,0 +1,44 @@
+[
+  {
+    "email_subject": "Itinerary for JONATHAN LANDSBERG - HGQNOD - on 12/2/2025 to Boston",
+    "email_received": "2026-03-19 10:39:43.302000+00:00",
+    "hotels": [
+      {
+        "hotel_name": "Hyatt Place Boston Seaport",
+        "confirmation_number": "150057RA017972",
+        "address": "295 Northern Avenue,Boston Ma 02210",
+        "check_in": "Tue 02 Dec 2025",
+        "check_out": "Wed 03 Dec 2025",
+        "duration": "1 Night(s)",
+        "number_of_rooms": "1",
+        "rate_usd": "341.10",
+        "phone": "8573281234",
+        "fax": "8573281235",
+        "room_type": "HARBOR VIEW-ONE KING BED-SOFA-SLEEPER FREE WIFI-55IN TV SPEC",
+        "cancel_policy": "CANCEL 2 DAYS PRIOR TO LOCAL TIME DAY OF ARRIVAL",
+        "guarantee": "ROOM GUARANTEED TO AMERICAN EXPRESS"
+      }
+    ]
+  },
+  {
+    "email_subject": "Fw: Itinerary for JONATHAN LANDSBERG - HGQNOD - on 12/2/2025 to Boston",
+    "email_received": "2026-03-18 17:01:20.831000+00:00",
+    "hotels": [
+      {
+        "hotel_name": "Hyatt Place Boston Seaport",
+        "confirmation_number": "150057RA017972",
+        "address": "295 Northern Avenue,Boston Ma 02210",
+        "check_in": "Tue 02 Dec 2025",
+        "check_out": "Wed 03 Dec 2025",
+        "duration": "1 Night(s)",
+        "number_of_rooms": "1",
+        "rate_usd": "341.10",
+        "phone": "8573281234",
+        "fax": "8573281235",
+        "room_type": "HARBOR VIEW-ONE KING BED-SOFA-SLEEPER FREE WIFI-55IN TV SPEC",
+        "cancel_policy": "CANCEL 2 DAYS PRIOR TO LOCAL TIME DAY OF ARRIVAL",
+        "guarantee": "ROOM GUARANTEED TO AMERICAN EXPRESS"
+      }
+    ]
+  }
+]

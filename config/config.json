@@ -1,0 +1,13 @@
+{
+  "outlook": {
+    "folder": "Inbox",
+    "subject_keyword": "Itinerary",
+    "sort_by": "ReceivedTime",
+    "sort_descending": true
+  },
+  "output": {
+    "filename": "hotels_output.json",
+    "indent": 2,
+    "encoding": "utf-8"
+  }
+}
